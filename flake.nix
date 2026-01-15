@@ -36,7 +36,7 @@
           
           meta = with pkgs.lib; {
             description = "Rust telemetry driver for build process instrumentation";
-            license = licenses.agpl3;
+            license = licenses.gpl3;
           };
         };
 
